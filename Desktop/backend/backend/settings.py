@@ -41,6 +41,7 @@ STATICFILES_DIRS = (
 # Application definition
 
 INSTALLED_APPS = [
+    'user.apps.UserConfig',
     'books.apps.BooksConfig',
     'django.contrib.admin',
     'django.contrib.auth',
