@@ -28,9 +28,20 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
+STATIC_ROOT= "staticfiles"
+STATIC_URL = 'static'
+
+
+
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
+
+
 # Application definition
 
 INSTALLED_APPS = [
+    'books.apps.BooksConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -52,10 +63,11 @@ MIDDLEWARE_CLASSES = [
 
 ROOT_URLCONF = 'backend.urls'
 
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
