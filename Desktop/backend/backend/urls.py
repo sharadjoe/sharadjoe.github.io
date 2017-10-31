@@ -22,4 +22,5 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^home/', views.home),
+    url(r'^dashboard/',views.dashboard),
 ]
