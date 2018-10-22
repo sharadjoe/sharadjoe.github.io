@@ -1,4 +1,13 @@
 
+- name: Lamina
+  url: https://lamina.xyz/
+  code: https://lamina.xyz/
+  description: Quickly integrate Deep Learning into your products with just an API call to our robust models in the cloud.
+  used:
+    - thing: JavaScript
+    - thing: Flask
+    - thing: Python
+    - thing: Keras
 - name: sendInOut
   url: https://github.com/sharadjoe/sendInOut
   code: https://github.com/sharadjoe/sendInOut
