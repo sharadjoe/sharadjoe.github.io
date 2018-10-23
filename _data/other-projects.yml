@@ -2,7 +2,9 @@
 - name: Lamina
   url: https://lamina.xyz/
   code: https://lamina.xyz/
-  description: Quickly integrate Deep Learning into your products with just an API call to our robust models in the cloud.
+  description: Quickly integrate Deep Learning into your products with just an API call to our robust models in the cloud.<br>
+    <a class="small" href="#">🏆 Among top 5 on product hunt at the day it was launched🏆</a><br />
+    <a class="small" href="#">300+ upvotes and counting</a>
   used:
     - thing: JavaScript
     - thing: Flask
