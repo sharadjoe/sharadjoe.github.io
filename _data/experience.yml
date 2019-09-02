@@ -2,7 +2,20 @@
   url: https://www.zappyhire.com/
   time: April 2019 - Present
   position: Research and Development
-  
+  duties:
+    - duty: Built a resume parser for a close evaluation of candidate resumes.
+    - duty: Built a video to text program to help analyze videos better.
+    - duty: Developed a video chatting platform using agora with features like dynamic screen rendering and screen share.
+
+- company: Rais Tech
+  url:
+  time: Mar 2016 - Dec 2017
+  position: Co-Founder, CTO
+  duties:
+    - duty: Built good and scalable products for clients.
+    - duty: Introduce new tech into the company.
+    - duty: Converting ideas into MVP for different clients.
+
 - company: Mozilla
   url: https://github.com/mozilla
   time: Forever
@@ -42,8 +55,3 @@
   url: http://foces.org/
   time: Jan 2016 - Jan 2017
   position: Web Developer
-
-- company: Rais Tech 
-  url: https://www.google.com/
-  time: Mar 2016 - Dec 2017
-  position: Co-Founder

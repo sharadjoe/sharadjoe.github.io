@@ -3,14 +3,13 @@ languages:
   - item: HTML
   - item: CSS/Sass
   - item: Python
-   
 
 frameworks:
   - item: React
   - item: Jekyll
-  - item: Node
-
-
+  - item: Nodejs
+  - item: Django
+  - item: Flask
 
 tools:
   - item: Bash
@@ -23,3 +22,4 @@ design:
   - item: Sketch
   - item: Wireframing
   - item: User Testing
+  - item: AdobeXD
