@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/bchiang7/bchiang7.github.io",
   "dependencies": {
-    "nodemon": "^1.19.3"
+    "nodemon": "^1.19.4"
   }
 }
