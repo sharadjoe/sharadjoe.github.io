@@ -3,6 +3,8 @@
   time: April 2019 - Present
   position: Research and Development
   duties:
+    - duty: Built a sevice to find potencial passive candidates and score them based on skills and education.
+    - duty: Built an analytics tool to predict employee behaviour.
     - duty: Built a resume parser for a close evaluation of candidate resumes.
     - duty: Built a video to text program to help analyze videos better.
     - duty: Developed a video chatting platform using agora with features like dynamic screen rendering and screen share.
