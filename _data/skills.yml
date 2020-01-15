@@ -1,0 +1,25 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+
+frameworks:
+  - item: React
+  - item: Jekyll
+  - item: Nodejs
+  - item: Django
+  - item: Flask
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Chrome DevTools
+  - item: Postman
+  - item: MongoDB
+
+design:
+  - item: Sketch
+  - item: Wireframing
+  - item: User Testing
+  - item: AdobeXD

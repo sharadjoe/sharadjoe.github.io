@@ -1,0 +1,41 @@
+# Site settings
+name: Sharad Joe
+title: Sharad Joe| Software Engineer
+description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+url: http://sharadjoe.github.io/
+baseurl: ""
+email: sharadjoe48@gmail.com
+cover: http://sharadjoe.github.io/og.png
+logo: http://sharadjoe.github.io/img/emojis/technologist.png
+resume: http://sharadjoe.github.io/sharad_joe_resume.pdf
+social:
+  - title: email
+    url: mailto:sharadjoe48@gmail.com
+  - title: instagram
+    url: https://instagram.com/sharad__joe
+  - title: github
+    url: https://github.com/sharadjoe
+  - title: linkedin
+    url: https://www.linkedin.com/in/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
