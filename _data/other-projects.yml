@@ -3,7 +3,6 @@
   code:
   description:
     A program that provide the analytics behind each QR code in a company<br>
-    <a class="small" href="#">🏆 2 companies already in line to try the product 🏆</a><br />
     <a class="small" href="#"></a>
   used:
     - thing: Django
