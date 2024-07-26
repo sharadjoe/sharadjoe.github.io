@@ -1,4 +1,4 @@
-<section class="section experience other-projects">
+<section class="section experience">
   <div class="section__title">Experience</div>
   <div class="section__content">
     <div class="jobs">
@@ -11,7 +11,7 @@
           <div class="job__time">{{job.time}}</div>
         </div>
         <div class="job__position">{{job.position}}</div>
-        {% for item in project.used %}
+        {% for item in job.used %}
         <span class="project__used__item">{{item.thing}}</span>
         {% endfor %} {% for item in job.duties %}
         <ul>
