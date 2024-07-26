@@ -2,6 +2,15 @@
   url: https://www.knowbe4.com/
   time: Mar 2022 - Present
   position: Senior Software Engineer
+  used:
+    - thing: Django
+    - thing: React
+    - thing: Svletejs
+    - thing: JavaScript
+    - thing: Nodejs
+    - thing: DynamoDB
+    - thing: AWS
+    - thing: Postgres
   duties:
     - duty: Take full responsibility for the end-to-end development of microservices, from design to deployment
     - duty: Monitor and analyze cloud resource usage to identify cost-saving opportunities
@@ -10,10 +19,34 @@
     - duty: Design, write, and maintain Terraform configurations to provision and manage AWS infrastructure
     - duty: Use Terraform to manage dependencies and automate infrastructure changes, supporting a reliable and scalable serverless architecture
 
-- company: SecurityAdvisor (Acquired By KnowBe4)
+- company: HelpSquad US ( HoverSpaces Pvt Ltd )
+  url: https://hoverspaces.com/
+  time: Jun 2022 - Nov 2023
+  position: Front End Engineer
+  used:
+    - thing: React
+    - thing: Tailwind
+  duties:
+    - duty: Take full responsibility for front end development using React.
+    - duty: Regularly update the front-end codebase to incorporate new features, address bugs, and ensure compatibility with newer browser versions
+    - duty: Build Modern UI components to promote reusability
+    - duty: Design and Build UI used tailwind css
+    - duty: Making sure of UI responsiveness in different screen sizes
+    - duty: Confirm functionality works across different browsers
+
+- company: SecurityAdvisor ( Acquired By KnowBe4 )
   url: https://www.securityadvisor.io/
   time: Nov 2019 - Mar 2022
   position: Software Engineer
+  used:
+    - thing: Django
+    - thing: React
+    - thing: Svletejs
+    - thing: JavaScript
+    - thing: Nodejs
+    - thing: DynamoDB
+    - thing: AWS
+    - thing: Postgres
   duties:
     - duty: Ensure the front end is responsive and provides a seamless experience across various devices and screen sizes. Utilize Bootstrap to enhance the design consistency and responsiveness
     - duty: Regularly update the front-end codebase to incorporate new features, address bugs, and ensure compatibility with newer browser versions
@@ -25,6 +58,12 @@
   url: https://www.zappyhire.com/
   time: April 2019 - Nov 2019
   position: Research and Development
+  used:
+    - thing: Django
+    - thing: React
+    - thing: JavaScript
+    - thing: AWS
+    - thing: Postgres
   duties:
     - duty: Developed a service to identify potential passive candidates and evaluate them through a scoring algorithm based on their skills and educational background.
     - duty: Engineered an analytics tool leveraging predictive modeling techniques to forecast employee behavior patterns.

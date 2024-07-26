@@ -9,6 +9,9 @@
             <a href="{{job.url}}" target="_blank">{{job.company}}</a>
           </div>
           <div class="job__time">{{job.time}}</div>
+          {% for item in project.used %}
+          <span class="project__used__item">{{item.thing}}</span>
+          {% endfor %}
         </div>
         <div class="job__position">{{job.position}}</div>
         {% for item in job.duties %}
