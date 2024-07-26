@@ -1,29 +1,45 @@
-- company: SecurityAdvisor
+- company: KnowBe4
+  url: https://www.knowbe4.com/
+  time: Mar 2022 - Present
+  position: Senior Software Engineer
+  duties:
+    - duty: Take full responsibility for the end-to-end development of microservices, from design to deployment
+    - duty: Monitor and analyze cloud resource usage to identify cost-saving opportunities
+    - duty: Design and implement serverless architectures using AWS technologies (e.g., AWS Lambda, API Gateway, DynamoDB, S3)
+    - duty: Work closely with cross-functional teams including product managers, designers, and other engineers to gather requirements and provide technical insights
+    - duty: Design, write, and maintain Terraform configurations to provision and manage AWS infrastructure
+    - duty: Use Terraform to manage dependencies and automate infrastructure changes, supporting a reliable and scalable serverless architecture
+
+- company: SecurityAdvisor (Acquired By KnowBe4)
   url: https://www.securityadvisor.io/
-  time: Nov 2019 - present
+  time: Nov 2019 - Mar 2022
   position: Software Engineer
   duties:
-    - duty: Can't disclose
+    - duty: Ensure the front end is responsive and provides a seamless experience across various devices and screen sizes. Utilize Bootstrap to enhance the design consistency and responsiveness
+    - duty: Regularly update the front-end codebase to incorporate new features, address bugs, and ensure compatibility with newer browser versions
+    - duty: Design RESTful or GraphQL API endpoints to support the functionality of the campaign systems. Define clear, consistent naming conventions and ensure endpoints follow best practices for HTTP methods and status codes
+    - duty: Architect scalable and efficient systems for campaign management by defining clear design patterns and choosing appropriate technologies. Utilize principles such as microservices or serverless architecture based on the specific needs of the system
+    - duty: Analyze and manage system costs by optimizing resource usage, choosing cost-effective cloud services, and implementing auto-scaling policies. Conduct regular reviews of cloud service bills and identify opportunities for cost savings
 
 - company: ZappyHire
   url: https://www.zappyhire.com/
   time: April 2019 - Nov 2019
   position: Research and Development
   duties:
-    - duty: Built a sevice to find potencial passive candidates and score them based on skills and education.
-    - duty: Built an analytics tool to predict employee behaviour.
-    - duty: Built a resume parser for a close evaluation of candidate resumes.
-    - duty: Built a video to text program to help analyze videos better.
-    - duty: Developed a video chatting platform using agora with features like dynamic screen rendering and screen share.
+    - duty: Developed a service to identify potential passive candidates and evaluate them through a scoring algorithm based on their skills and educational background.
+    - duty: Engineered an analytics tool leveraging predictive modeling techniques to forecast employee behavior patterns.
+    - duty: Created an advanced resume parsing system utilizing natural language processing (NLP) for in-depth evaluation of candidate resumes.
+    - duty: Implemented a video-to-text conversion application employing machine learning algorithms to enhance video content analysis.
+    - duty: Architected a video communication platform using Agora SDK, incorporating features such as dynamic screen rendering and real-time screen sharing.
 
 - company: Rais Tech
   url:
   time: Mar 2016 - Dec 2017
   position: Co-Founder, CTO
   duties:
-    - duty: Built good and scalable products for clients.
-    - duty: Introduce new tech into the company.
-    - duty: Converting ideas into MVP for different clients.
+    - duty: Developed high-quality, scalable products tailored to client specifications, ensuring robust performance and the ability to handle growing user demands
+    - duty: Integrated emerging technologies into the company's workflow, enhancing overall technical capabilities and keeping the organization at the forefront of industry advancements
+    - duty: Transformed client concepts into Minimum Viable Products (MVPs), delivering initial versions that validate core features and market potential while enabling iterative development based on feedback.
 
 - company: Mozilla
   url: https://github.com/mozilla
